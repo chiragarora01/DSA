@@ -1,7 +1,4 @@
-// Last updated: 15/8/2026, 2:15:19 pm
-import java.util.HashMap;
-import java.util.Map;
-
+// Last updated: 15/8/2026, 2:15:28 pm
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();
